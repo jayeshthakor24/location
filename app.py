@@ -207,4 +207,6 @@ if selected_stock:
 
     st.write("### ⭐ Recommendation Score")
     st.progress(rec / 100)
-    st.write(f"**Score:** {rec
+    st.write(f"**Score:** {rec}")
+
+
